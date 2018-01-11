@@ -6,8 +6,6 @@
 
 −	Fitted linear regression model with regularization to control for multicollinearity and also built random forest, boosting decision tree to predict interest rate for each loan.
 
-−	Achieved 2.75 RMSE by boosting decision tree model on test data set.
-
 Notebook Contents
  1. LC_data_analysis_glmnet.html
     Loan data analysis and linear regression model
