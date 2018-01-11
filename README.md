@@ -9,7 +9,7 @@ Link to the raw data: https://www.kaggle.com/wendykan/lending-club-loan-data/dat
 −	Fitted linear regression model with regularization to control for multicollinearity and also built random forest, boosting decision tree to predict interest rate for each loan.
 
 Notebook Contents
- 1. LC_data_analysis_glmnet.html
+ 1. LC_data_analysis_glmnet.html:
     Loan data analysis and linear regression model
- 2. LC_data_tree_based_models.html
+ 2. LC_data_tree_based_models.html:
     Tree based modeling including random forest and xgboost
